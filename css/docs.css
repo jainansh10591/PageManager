@@ -176,7 +176,7 @@ hr.soften {
   right: 0;
   bottom: 0;
   left: 0;
-  background: url(../img/bg2.jpg) repeat center center;
+  background: url(../img/home.jpg);
   opacity: .4;
 }
 @media
